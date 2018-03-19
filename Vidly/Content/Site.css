@@ -22,3 +22,29 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.navbar{
+    background-color: #ffffff ;
+    height:100px;
+    padding: 20px;
+}
+
+.navbar-collapse {
+    margin-right: 50px;
+}
+
+
+.link{
+    font-size: 2rem;
+    color:red;
+}
+
+ .navbar-nav li a:hover {
+   color:black;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+}
+
+
